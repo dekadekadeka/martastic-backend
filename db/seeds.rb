@@ -9,8 +9,7 @@ User.destroy_all
 Station.destroy_all
 Friendship.destroy_all
 Pic.destroy_all
-PicComment.destroy_all
-StationComment.destroy_all
+Comment.destroy_all
 
 stations = [
     "Five Points",
@@ -74,19 +73,19 @@ end
     )
 end
 
-50.times do
-    PicComment.create(
-        user_id: User.all.sample.id,
-        pic_id: Pic.all.sample.id,
-        content: Faker::TvShows::DumbAndDumber.quote
+100.times do
+    Comment.create(
+        commentable: Station.all.sample,
+        content: Faker::TvShows::DumbAndDumber.quote,
+        user_id: User.all.sample.id
     )
 end
 
-50.times do
-    StationComment.create(
-        user_id: User.all.sample.id,
-        station_id: Station.all.sample.id,
-        content: Faker::TvShows::Simpsons.quote
+100.times do
+    Comment.create(
+        content: Faker::TvShows::Seinfeld.quote,
+        commentable: Pic.all.sample,
+        user_id: User.all.sample.id
     )
 end
 
