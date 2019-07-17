@@ -3,4 +3,7 @@ Rails.application.routes.draw do
   resources :users
   resources :stations
   resources :pics
+  resources :friendships
+  resources :pic_comments
+  resources :station_comments
 end
