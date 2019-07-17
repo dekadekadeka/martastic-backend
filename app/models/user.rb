@@ -1,8 +1,8 @@
 class User < ApplicationRecord
     has_many :pics
     has_many :stations, through: :pics
-    has_many :station_comments
-    has_many :pic_comments
+    
+    has_many :comments
 
     has_many :friendships
     has_many :friends, through: :friendships

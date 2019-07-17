@@ -4,6 +4,5 @@ Rails.application.routes.draw do
   resources :stations
   resources :pics
   resources :friendships
-  resources :pic_comments
-  resources :station_comments
+  resources :comments
 end
