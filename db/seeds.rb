@@ -60,18 +60,29 @@ end
         name: Faker::FunnyName.two_word_name,
         username: Faker::Internet.username,
         password_digest: Faker::Internet.password,
-        profile_pic_url: nil,
+        profile_pic_url: "../public/generic_profile.jpg",
         bio: Faker::TvShows::TheFreshPrinceOfBelAir.quote,
         location: Faker::Address.community,
         home_station: Station.all.sample.name)
 end
 
-
+pics_array = [
+    "https://upload.wikimedia.org/wikipedia/commons/5/56/MARTA_-_N3_Station.jpg",
+    "https://www.wjbf.com/wp-content/uploads/sites/47/2018/08/marta20train20in20atlanta20generic20pic_1534834593531.jpg_52549029_ver1.0.jpg",
+    "https://www.dailydot.com/wp-content/uploads/fe7/6c/c61a9af9f73b03a0f415c0504a52d30c.jpg",
+    "https://www.artpapers.org/wp-content/uploads/2017/11/DSC02260-e1525284313919.jpg",
+    "https://whatsnextatl.org/wp-content/uploads/2018/11/MARTA-train-upcloseO.jpg",
+    "https://1v1ulb40yc772j8uk01kozpe-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/North-Springa-MARTA-1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/75/MARTA_Peachtree_Center_over_tracks.jpg",
+    "https://www.wheretraveler.com/sites/default/files/images/marta_c-katchooo-flickr.jpg",
+    "https://khafracom.files.wordpress.com/2019/01/cropped-marta-station-2.jpg?w=1728",
+    "https://www.wsp.com/-/media/Insights/US/img-greg-benz-lifetime-achievement-atlanta-marta.jpg"
+]
 25.times do
     Pic.create(
         user_id: User.all.sample.id,
         station_id: Station.all.sample.id,
-        pic_url: nil,
+        pic_url: pics_array.sample,
         rating: rand(10)
     )
 end
