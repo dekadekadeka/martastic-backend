@@ -4,5 +4,5 @@ class StationSerializer < ActiveModel::Serializer
 
     include Commentable
   
-    attributes :id, :name, :rating
+    attributes :id, :name, :slug, :rating
   end
