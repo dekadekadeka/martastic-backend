@@ -52,7 +52,10 @@ stations = [
     "East Lake"
 ]
 stations.each do |station|
-    Station.create(name: station, rating: rand(10))
+    Station.create(
+        name: station, 
+        slug: station.gsub(/[\s\/.]/, "-").downcase,
+        rating: rand(10))
 end
 
 10.times do
