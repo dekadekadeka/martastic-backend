@@ -81,6 +81,9 @@ pics_array = [
     "https://khafracom.files.wordpress.com/2019/01/cropped-marta-station-2.jpg?w=1728",
     "https://www.wsp.com/-/media/Insights/US/img-greg-benz-lifetime-achievement-atlanta-marta.jpg"
 ]
+#Seed data will render random, possibly incorrect information regarding pictures
+#and what station they belong to. 
+#Please use with caution.
 25.times do
     Pic.create(
         user_id: User.all.sample.id,

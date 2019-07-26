@@ -19,6 +19,15 @@ class PicsController < ApplicationController
           render json: { error: 'failed to add pic' }, status: :unprocessible_entity
       end
     end
+####remove after patching pics!!
+    def update
+      @pic = Pic.find(params[:id])
+      if @pic.update(pic_params)
+        render json: @pic, status: :accepted
+      else
+        render json: {error: 'failed to update pic'}, status: :not_acceptable
+      end
+    end
 
     def destroy
       @pic = Pic.find(params[:id])
@@ -28,7 +37,7 @@ class PicsController < ApplicationController
     private
 
     def pic_params
-      params.require(:user).permit(:user_id, :station_id, :pic_url, :rating)
+      params.require(:pic).permit(:user_id, :station_id, :pic_url, :rating)
     end
 
 end

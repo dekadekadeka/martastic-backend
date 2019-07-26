@@ -11,6 +11,10 @@ class AuthController < ApplicationController
         end 
     end
 
+    def init_state
+        render json: { user: UserSerializer.new(@user) }, status: :ok
+    end
+
     private
 
     def user_login_params

@@ -3,8 +3,9 @@ Rails.application.routes.draw do
   resources :users
   post '/login', to: 'auth#create'
   get '/profile', to: 'users#profile'
+  get '/init-state', to: 'auth#init_state'
   resources :stations, only: [:index, :show]
-  resources :pics, only: [:index, :show, :create, :destroy]
+  resources :pics, only: [:index, :show, :update, :create, :destroy]
   resources :friendships, only: [:index, :create, :destroy]
   resources :comments, only: [:index, :create, :destroy]
 end
