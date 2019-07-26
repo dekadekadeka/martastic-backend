@@ -1,5 +1,5 @@
 class PicsController < ApplicationController
-  skip_before_action :authorized, only: [:index, :show]
+  skip_before_action :authorized, only: [:index, :update, :show]
 
     def index
         @pics = Pic.all
@@ -19,7 +19,7 @@ class PicsController < ApplicationController
           render json: { error: 'failed to add pic' }, status: :unprocessible_entity
       end
     end
-####remove after patching pics!!
+
     def update
       @pic = Pic.find(params[:id])
       if @pic.update(pic_params)
