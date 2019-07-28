@@ -19,6 +19,7 @@ gem 'knock'
 gem 'jwt'
 gem 'faker'
 gem 'active_model_serializers'
+gem 'json'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
