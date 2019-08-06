@@ -68,7 +68,7 @@ end
         name: Faker::FunnyName.two_word_name,
         username: Faker::Internet.username,
         password_digest: Faker::Internet.password,
-        profile_pic_url: nil,
+        profile_pic_url: "http://localhost:3000/generic_profile.jpg",
         bio: Faker::TvShows::TheFreshPrinceOfBelAir.quote,
         location: Faker::Address.community,
         home_station: Station.all.sample.name)
