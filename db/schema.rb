@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_19_164331) do
+ActiveRecord::Schema.define(version: 2019_08_06_145229) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -36,12 +36,12 @@ ActiveRecord::Schema.define(version: 2019_07_19_164331) do
     t.integer "user_id"
     t.integer "station_id"
     t.string "pic_url"
-    t.integer "rating"
+    t.integer "likes"
   end
 
   create_table "stations", force: :cascade do |t|
     t.string "name"
-    t.integer "rating"
+    t.integer "likes"
     t.string "slug"
   end
 
