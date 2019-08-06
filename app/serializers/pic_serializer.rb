@@ -4,5 +4,5 @@ class PicSerializer < ActiveModel::Serializer
 
     include Commentable
   
-    attributes :id, :user_id, :station_id, :pic_url, :rating
+    attributes :id, :user_id, :station_id, :pic_url, :likes
   end
