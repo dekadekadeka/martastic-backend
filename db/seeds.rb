@@ -60,7 +60,7 @@ stations.each do |station|
     Station.create(
         name: station, 
         slug: station.gsub(/[\s\/.]/, "-").downcase,
-        rating: rand(100))
+        likes: rand(500))
 end
 
 10.times do
@@ -68,7 +68,7 @@ end
         name: Faker::FunnyName.two_word_name,
         username: Faker::Internet.username,
         password_digest: Faker::Internet.password,
-        profile_pic_url: "http://localhost:3000/generic_profile.jpg",
+        profile_pic_url: nil,
         bio: Faker::TvShows::TheFreshPrinceOfBelAir.quote,
         location: Faker::Address.community,
         home_station: Station.all.sample.name)
@@ -79,7 +79,7 @@ pics_hash.each do |ph|
         user_id: ph["user_id"],
         station_id: ph["station_id"],
         pic_url: ph["pic_url"],
-        rating: rand(100)
+        likes: rand(500)
     )
 end
 
