@@ -80,6 +80,7 @@ test:
 #
 production:
   <<: *default
+  prepared_statements: false
   database: martastic-backend_production
   username: martastic-backend
   password: <%= ENV['MARTASTIC-BACKEND_DATABASE_PASSWORD'] %>
