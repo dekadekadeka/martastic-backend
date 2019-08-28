@@ -2,191 +2,191 @@
    { 
         "user_id": "2",
         "station_id": 1,
-        "pic_url": "https://whatsnextatl.org/wp-content/uploads/2018/11/MARTA-train-upcloseO.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/five-points.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 2,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/MARTA_Airport_Station%3B_Atlanta_Airport.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/airport.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 3,
-        "pic_url": "https://live.staticflickr.com/2658/4009186327_41b9996e36_o.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/college-park.jpg"
     },
     { 
         "user_id": "4",
         "station_id": 4,
-        "pic_url": "https://1v1ulb40yc772j8uk01kozpe-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Lindbergh-City-Center-3.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/lindbergh.jpg"
     },
     { 
         "user_id": "8",
         "station_id": 5,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/MARTA_Peachtree_Center_over_tracks.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/peachtree-center.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 6,
-        "pic_url": "https://live.staticflickr.com/2525/4009185185_6257a460f0_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/h-e-holmes.jpg"
     },
     { 
         "user_id": "9",
         "station_id": 7,
-        "pic_url": "https://cdn.vox-cdn.com/thumbor/vHf1qkLIhv5kftI6XAs3OE4nID4=/0x0:1024x683/1820x1213/filters:focal(431x261:593x423):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62193155/4074154844_8935ff7044_b.0.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/kensington-good.jpg"
     },
     { 
         "user_id": "7",
         "station_id": 8,
-        "pic_url": "https://www.dailydot.com/wp-content/uploads/fe7/6c/c61a9af9f73b03a0f415c0504a52d30c.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/west-end-good.png"
     },
     { 
         "user_id": "1",
         "station_id": 9,
-        "pic_url": "https://live.staticflickr.com/2481/4009184855_b7b7335393_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/arts-center.jpg"
     },
     { 
         "user_id": "5",
         "station_id": 10,
-        "pic_url": "https://1v1ulb40yc772j8uk01kozpe-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/North-Springa-MARTA-1.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/north-springs.jpg"
     },
     { 
         "user_id": "6",
         "station_id": 11,
-        "pic_url": "https://www.artpapers.org/wp-content/uploads/2017/11/DSC02260-e1525284313919.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/north-avenue.jpg"
     },
     { 
         "user_id": "9",
         "station_id": 12,
-        "pic_url": "https://lh3.googleusercontent.com/Hk-mQG1ZlEiqnGojf9NgxJRdxHA7gbdFczEk48cy7sV9YkfTXl5FQoQf7Q6N4YQoHhT2gj1eu9iBHrQLqz3U0fcftrqWWMG_y9vlI6KRFG8MAQoZ3zJk0uNbKx3xfNzcCcl7WQXqjouOm89r3yLlnF2-RHlmjyK-rgZVn2OpSwewjTzn-f5FiPNXOBJn2zGRiWxOSgJr4J9-R9-LiH7Bx1eMSiAVv4HeI2TQQJLUyh-qaN3JVcJdyhGMcvUaET2fTncwZyC7CuSaQ4tDzHA4nnk40DKqNXtXVmrKvQw0z3WpAGr8abShqdbilDd-laod3_s3kRmCJUp-tAad2lLol9ibHlKPhNZjfRHzVbHVk3PGPIoQMbqKRtR718c3QtcWEYkg8J4rcmv1lPE5BQxR9kXh7bLzDFfPuKW2Dk_qRibGIizvjg8WveYuPzZEknB0hmslvFeajqtS4SjQ2QWFINcEaWl87sWk4TGc-EbcWmzLCVN9HD0OO59K0QKsHnkrFCSwqlYFX1PL8mX4u8ipROUNqNM6i2BRxItCJuw1KhJCVlGIrFETDK8SlrdSMZTTdl5vSso_iFVGUDTr4VGPFykNJ5cG9AxaNNYs3OW5Ul2UwAqI4zAXqiWyZls=w2878-h836"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/indian-creek.JPG"
     },
     { 
         "user_id": "9",
         "station_id": 13,
-        "pic_url": "https://www.wjbf.com/wp-content/uploads/sites/47/2018/08/marta20train20in20atlanta20generic20pic_1534834593531.jpg_52549029_ver1.0.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/midtown.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 14,
-        "pic_url": "https://lh3.googleusercontent.com/tHAOei-q0F90N7CzZ6ew80wadV1F4OP3qnw0Q02fVus3hZAHzWq3LWcAFhymbekQZ6Sl9JerKY0aS3g0KxEl0plbKCagIC4x3iiYwExmVyZlZzqqUVMsEkv7jVLib9mDw73lQXS6gkNm5BHG319UeVdMLQCP7tRkEUMh92xuIJQB_JRuChYCGFbVuu5d7MGWHJf4hQR1GKJp_MploQf4xFYIGsdrNdEK6bsF5u8FhkvLAe7i_xfwsVZ_nJS3fSIELYjgAuECK177MD5-B--mvK5BxCXMNQJFJJe7LwmaIRlPBBzHcEVDv8Q0JpW3V_fRNSm4b-Tknh8XxtBw2EMWLQBIcrnyfXsYlxAFZJh1A9Ws44MTVfrMNq1ZAnJmCTWnDTdyw-Acaf7_piq5Kg4YM1FpC1U8V3zzQ-SqJLj1Eklh1HH5p4zbTg1TvKj72mZEGUTxrm709XqAqfLTfdcp77xwnINrALmM2XlYScunh5sBtssyOURIn-pyBYvSwDL3p1qSPMSglMbwzN5L71152zPQwrauxYETAYj6mwJ7o798A9-6czLtxgBKUniQ55tUkz1TdrcEHtKw6TbZtoYbTaLsK6gB-B0Y5oESetpsmZ5DFthT3kkna_LwYec=w2878-h1028"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/avondale.JPG"
     },
     { 
         "user_id": "1",
         "station_id": 15,
-        "pic_url": "https://live.staticflickr.com/2467/4009953816_8d57b0ddd0_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/doraville.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 16,
-        "pic_url": "https://lh3.googleusercontent.com/TiI7irWT8vjZoP5QV5OT9w72TuyxfABgw3rG5_Y2lrQFSI9MpnDp7LA2WnH2n970qAPVtsYTaAfUapmMOEkiPLFrctC3vtAV1Ux7-cfOs9qShuds2c4IpMVYnY56qnnhPhxjMZcrwDkMQfpfaFeP3oG44R_C_-2izoNM-HL1bI5EThJdNg9CMnXecGU2R3gp3_gxBAfj3uNhqbNn1gN7F5QSsAp5Jv5clbt5zOAeAGkCIwYtM4XIlSOeR3gtROcDucVtXbQO7iA4HVfn9i--7WuKLWZpT65GqQVHQrSu_6atMSgVDzIXhKVC9YlYk4ZfbqPCZiAzu-O5UdThd_NWKrlNPG7Qj5ydLP24-cGCAtyhvv-ySR-rzBH03ux1sBdfEwmDk_-DY_oikROB8mS7HF6xvBye5sJs6nmlifFoQzDU9Smp5_3s-jownAO2FjISUB5Mb7fN6t1Q0uwDCHh8YXR2addqSVLmob7y15w3VZq1VcsNcJ7xrWkTibxjcQ0azzDn3e-kgThTbj8TlliCAqWupCpu3MWe1vllv1MAd445SWai9zwqkPTyY0GuigX_e1s6G6Ezn89qXFgrlLOpBTXCRsCzl4xx_5zmXCxbeq91XEu-wRan7H49EOg=w2878-h836"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/east-point.JPG"
     },
     { 
         "user_id": "1",
         "station_id": 17,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MARTA_Oakland_City.jpg/1200px-MARTA_Oakland_City.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/oakland-city.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 18,
-        "pic_url": "https://lh3.googleusercontent.com/TikxV4v2StlPh2SE26k4CK9R8YGTzvW7FI8fxyAfAd5GdlFH0wX66DMwe_FXRnFvqyqrbd3uJo3DVwtNtnPPRWrxtdrzR1SHIBw_x5PlpT3gcxd0N-pHzkLBXHY6ilmPmG9n3scYKjeUQtds89vtGh85pDJF0rLRVHz_0n_j2buOMeLnt9REhU7UnAJec-XJvd5Lbrn5fqz1616N-suaUeTTAH45Nd7vG5KUuaGdRCwBd3wb_Tsafd9w37hbxaJHvuWOeEyTLxJ3mXNy3kBWTm7bmi7d8eo-neXXAJvnY92zozGrRcyvPC55O--2kFP3utTFvNNLb0EedwlEmDQLreth2ih5A6WT4faEC59HiBlVpcNJjTOfcFObvKfMdF9WCHiUSfZNFRlsizlufg_rudEpsr5pdGuiksh0VEDjLbAkACfp7hrZ-4f-IHxMJJvgobKr2VcNiV8GqJijsNiS25QLFfdvgRLbEjTCsBk-RiicxDEfwqVPCGwwsIi4G8MZreFN0_UXRMU9rxT_o68SQTMQ9g6S-nLjq5gbgr0_wn83ImYvqbPXiPCnkhhsxl1YAMSbg7uwSOvfvfclbAsS-rDvUxlYfQPTvZdMQkcT-NJiOFTp-n-sKRGlP20=w2878-h852"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/georgia-state.JPG"
     },
     { 
         "user_id": "1",
         "station_id": 19,
-        "pic_url": "https://live.staticflickr.com/2579/4009185841_70739ed7a7_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/decatur.jpg"
     },
     { 
         "user_id": "6",
         "station_id": 20,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Marta_chamblee.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/chamblee.jpg"
     },
     { 
         "user_id": "7",
         "station_id": 21,
-        "pic_url": "https://lh3.googleusercontent.com/gRAxyUARZUtwzonYWo7Yo6kCukiapLq5jBT39zaEJ4K_YQF3sUNogx37sWkOHCFKScJf2AFSf79tXL-q_ePth74jbhiHhZLghzfWYXE0l67vmhxib1szhF5ICT4ZKd1ZkTNYATa8QCJJ-gDtYdSoz2utpSobEDfO-3oicYh5eNwWqZF3frIHFP4gd7cTYcpcBvAWeROrzfQRc8Sae9-5NgWzrbKzdKANr1MZ0771L58Fp6u541C5g7qNQNlhrvkMRjKT6ROvZOMRBmk30Nt9xgbrFxmoenxQPJHaSiRm0yB8xs8QegBCD56G3nMWwGWHO-IbQnMTwapPb8IKySo59m1dtUwNac0v3g-ZTd5mkXtVTnu8_TftGLyAE8JItC0RVOa4sIFYtW4OGK5rDyqL7ldoSTtvKgaZTOO1-UbrLh9mhZVPe8gA2NJT9hSUGc9CG28eGODxh-JZnbL4FYUC7a6OoBbgOd6yQIY6a073zVrKBqOtQ8IIMN3wKPt5_3PrEXA5DAo0gBysyB3S26CEPjPctbaE0JotP4KBkcAuvJ8RPHWJRSZp6aLxA8iYlAB_DdbZFr6WuGg5Ms4q4m9C-_KOZXR1Vc_73GtpvS542cc32ICKfm0M8HOzIWk=w2878-h1416"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/lenox.jpg"
     },
     { 
         "user_id": "9",
         "station_id": 22,
-        "pic_url": "https://www.wsp.com/-/media/Insights/US/img-greg-benz-lifetime-achievement-atlanta-marta.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/dunwoody.jpg"
     },
     { 
         "user_id": "8",
         "station_id": 23,
-        "pic_url": "https://i.redd.it/xzoyluaw0umy.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/inman-park.jpg"
     },
     { 
         "user_id": "2",
         "station_id": 24,
-        "pic_url": "https://live.staticflickr.com/65535/48396402137_1a6663fd2c_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/civic-center.jpg"
     },
     { 
         "user_id": "5",
         "station_id": 25,
-        "pic_url": "https://cdngeneral.rentcafe.com/dmslivecafe/2/70135/4Neighborhood_P5_WindsorAtBrookhaven.jpg?&quality=85"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/brookhaven.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 26,
-        "pic_url": "https://lh3.googleusercontent.com/CNF8nNlLHrj5FfuODRv1WHqneB5rN8x4FaCvgJMMRgTRIJjdGUCMR01f1FiS95mL6shMc2YPnYKBFaYOBvHwRDbR2FfpbFkF95Bq8hhPxD9EwVZP9tbiI0x07OVzmrU6ggrscooZAWumxfy3nCi4yZ1oC4nVeXzK5fdc3r-gTOonaVsZtczhDYUUcpyb2qGSLWE_MW20q5Letcjz39v3aKp56igW6HUjcIQ6uVWF3vgB69eM_m-udAJyMlijQVGSIgl-Kd-7y1xqh-Ok2deOPi6ISZ6QuJxbXfToxCAQUDN-XEVUYi6WNHL6lLTb9WcFAgiqpkU-tEp9oTmDB1NXUS1TueP6s1tXdPTeAqB0-sf-tha_mTJMIborjqwoEDQM-1R36wP6WgK_dumaaZi5T4M0gkIgFeloKhHyxF1BJPb5eYDgYqK4KI5xvvIYSv5H92_6nmO3xhzkEccJi21fFD8xWrNAdJ5526nlY-9tds91dbaN2_XMqjs--raSXS14fFMmIj-0sHoNywvMyu_oPHhh_O8q6pB2qPIqdKzmSAi0gAVwUL3-_jkxTEH6EVOD33hTpGjHdJ_3tRL0p61kB6fb6AgjJko0MWmj6NKFb-25ydcSjRSfi_U1CHQ=w2878-h1416"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/sandy-springs.JPG"
     },
     { 
         "user_id": "1",
         "station_id": 27,
-        "pic_url": "https://lh3.googleusercontent.com/pp3CfEijI_P989y_Pweo0qfG5-9qb1MyeUhKi0zeQ64B9RUb6is8cZM1gmR-b_x8fcapoC_F-v-O5S_bJZQrcQ6u6uSVAPxiUGxMH_XAHWGAloOHUZLQ-16g0qB_KdhDnxvdmQnlfc8LriOEyxDRiQeTYBuxPrToAQeLyhC59ybFUDNlkEhz_XvuOPs7pHn6HMWYZkw4VruI18uVVd-z3l1evZWQk07_nhvgYtQMv6pLsS9ZEe985cYp1corw9P1SRmPvnYSje4c_M1eJY2rBdf5P83zHdI1cJKhx4eBdJO_PSxndgtLYb7Do5Jmlz_JVQrU5V0Aj2Mf6_K1wb8ERrVbe6Gi9SFk0jc4XRIlTODW9BC9tqUOs8rCw_UaI8pMj_G2MQ_czeXKWeWRwLpkS18tJdDecicoD-8knjrdTzhDvihiiJNYy9cC-BPkE-KlqhSUSrNzBQKdmL9WL1VD1Uevo_XVhh3Je_4BD0ZxBff9hrF31aMP8leWqUV4ev0xGrTy1k0azQfhVULTLx9nN486rB6PzmVMeV7cdSniAIhzf6LgmTDhHhpbChFYPILKdVvlBQF95vdQpk8NTiImJ8SVgrdsUCr5H6OQy6YJ_0uTdLvDdvbUlwBZtJI=w2878-h852"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/west-lake.JPG"
     },
     { 
         "user_id": "5",
         "station_id": 28,
-        "pic_url": "https://cdn.timesofisrael.com/ajt/old/uploads/2013/04/Buckhead-Optimized.png"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/buckhead.png"
     },
     { 
         "user_id": "1",
         "station_id": 29,
-        "pic_url": "https://live.staticflickr.com/2586/4009952596_ec7c846f3a_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/dome.jpg"
     },
     { 
         "user_id": "4",
         "station_id": 30,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ashby_MARTA_station_in_March_2017.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/ashby.jpg"
     },
     { 
         "user_id": "3",
         "station_id": 31,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/en/5/57/Marta_Lakewood.png"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/lakewood.png"
     },
     { 
         "user_id": "1",
         "station_id": 32,
-        "pic_url": "https://lh3.googleusercontent.com/KET-7M6s7bK3Z4jfejytuZsmUJmEMH7yLxT8qx9k_lXDkpAOZAptekBakgxditTQyJVc4uGdryLZElfNixMsf8iVxkAJa0Oe5LSFkYyJRaRxsYw9FS-BFnxngbOdgXgUHOxfE4vlrX_x6zfE7c78Bsy0QFqwZdLLMY6AeEj4yIe2nR28NFEYAAFFdA3rq4JrIhj0OMv3esD0640-UBFDWKJ9m8Bntnxqo51F1_O43jBCc0wWJT1fTXuptAM1sQ2Ub_Ck34cpP1qWluQg09XzUHpZoF0abbgRscG_INCnzVErDQcGI2ePmg9mvuzceBsta4AAik8PzcdIb5hikM4EpuIXQd9kf2GODEG-m49pFaWU0ZFStq_CtgxwXRkGI1cZ9kzbiJNIcCODMeTZJ-sSfsOd5-97kmYQLWiU4PmkqcknZgbc7npm-NP1ebb3yEWBy4FWe7g3SvazsYm25dh54lPQSW_zqXZycgAG_jLepUQbudTLmFbEUlx1dlC4AlmuwKuD2CgGR3bOgPKm7RX31-U5QcUJqv_WGLn2-rmZ27LKW9bt7F-VOXlAS2HTEDhY8djuwDvt-0Qido2mMLC3YH7Bw4oB6t8DGS2r0lZGy7LN39Ba2ytGiP6Zyjc=w2878-h1416"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/bankhead.JPG"
     },
     { 
         "user_id": "1",
         "station_id": 33,
-        "pic_url": "https://live.staticflickr.com/3004/4009185935_57d59835d1_z.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/king-memorial.jpg"
     },
     { 
         "user_id": "6",
         "station_id": 34,
-        "pic_url": "https://enacademic.com/pictures/enwiki/71/Garnett_station.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/garnett.jpg"
     },
     { 
         "user_id": "7",
         "station_id": 35,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Marta_medical_center.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/medical-center.jpg"
     },
     { 
         "user_id": "8",
         "station_id": 36,
-        "pic_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Vine_City_MARTA_station_in_March_2017.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/vine-city.jpg"
     },
     { 
         "user_id": "1",
         "station_id": 37,
-        "pic_url": "https://lh3.googleusercontent.com/soFyPzm58mPwdkHlqX0XBQNGl-5fppPtyyfG2OJmD5QHZzohUcGD7WiuMIC4BupnTFFrX6CIpLYIpde4tCBrpg6TV0zzQQ38_Ry7CRzc4hrXmvQFdTo5aNfrUYeZLbif6irOGb0OeSkHb1LCtDxE_AbVXD5evwWR-QIK4HVR8h1SjHZTvwlMNR81m-WsNZZb8jfIhKTd3XBIjvj4Ry13D2rm39Vfm6zeyPf3lCCmsX3OZGq0Z8_GrN-TXVZ9YuzffCSA0ujcnq0ZFg7iepHQ3GKS_TmBP5xcs3X6kPlJjubrUU1RjeYdsZB8HOuiSQfihGW2wRhaOsbr3fbBZi8_hkhyoLmRa69VZ6TGihZV5chI9vBArEgHic3H2t3xLE_unzOcFiDFP8u0fWwNxSHeEMKylVcSbNDdv3rZV0yKJWDT24kGqUWLcLB0s1xDLLmyfi8u9k3AzrJubYZFRo3OSfbUkJ_S60He8RIEyeFa9pOdEPa7-W6Evf6QkhA2Zfv2yluvVwNYUmZ918b_U8GNwtXA1Lo-dGDS4uChWWM3ITC7XTRmJx5m2ZBewKmW_tnmTlUL-UybyzZ7o4BvYOPMip_I1SFTazA4zwKCzJ_7jmE8KrljnJ9QGGIKiqc=w2878-h1416"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/edgewood.JPG"
     },
     { 
         "user_id": "5",
         "station_id": 38,
-        "pic_url": "https://martaguide.files.wordpress.com/2011/04/4073387069_d14ab9fc16_b.jpg"
+        "pic_url": "https://martastic.herokuapp.com/station-imgs/east-lake.jpg"
     }
 ]
