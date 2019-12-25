@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Five Points",
+        "coords": "33.753826, -84.391571",
+        "address": "20 Broad St SW Atlanta, GA 30303",
+        "description": ""
+    },
+    {
+        "name": "Airport",
+        "coords": "33.640758, -84.446341",
+        "address": "6000 S Terminal Pkwy Atlanta, GA 30337",
+        "description": ""
+    },
+    {
+        "name": "College Park",
+        "coords": "33.651673, -84.448793",
+        "address": "3800 Main Street College Park, GA 30337",
+        "description": ""
+    },
+    {
+        "name": "Lindbergh Center",
+        "coords": "33.821995, -84.367447",
+        "address": "2424 Piedmont Road Atlanta, Georgia 30324",
+        "description": ""
+    },
+    {
+        "name": "Peachtree Center",
+        "coords": "33.759677, -84.387548",
+        "address": "216 Peachtree Street NE Atlanta, Georgia 30303",
+        "description": ""
+    },
+    {
+        "name": "H. E. Holmes",
+        "coords": "33.754638, -84.46794",
+        "address": "70 Hamilton E. Holmes Drive NW Atlanta, GA 30311",
+        "description": ""
+    },
+    {
+        "name": "Kensington",
+        "coords": "33.772664, -84.251937",
+        "address": "3350 Kensington Road Decatur, GA 30032",
+        "description": ""
+    },
+    {
+        "name": "West End",
+        "coords": "33.73581, -84.41296",
+        "address": "680 Lee Street SW, Atlanta, Georgia 30310",
+        "description": ""
+    },
+    {
+        "name": "Arts Center",
+        "coords": "33.789705, -84.387789",
+        "address": "1255 West Peachtree Street Atlanta, Georgia 30309",
+        "description": ""
+    },
+    {
+        "name": "North Springs",
+        "coords": "33.944552, -84.356206",
+        "address": "7010 Peachtree Dunwoody Road Sandy Springs, Georgia 30328",
+        "description": ""
+    },
+    {
+        "name": "North Avenue",
+        "coords": "33.771712, -84.386699",
+        "address": "713 West Peachtree Street NW Atlanta, Georgia 30308",
+        "description": ""
+    },
+    {
+        "name": "Indian Creek",
+        "coords": "33.769794, -84.229656",
+        "address": "3901 Durham Park Road Stone Mountain, GA 30083",
+        "description": ""
+    },
+    {
+        "name": "Midtown",
+        "coords": "33.781121, -84.386345",
+        "address": "41 Tenth Street NE Atlanta, Georgia 30309",
+        "description": ""
+    },
+    {
+        "name": "Avondale",
+        "coords": "33.775277, -84.281903",
+        "address": "915 East Ponce de Leon Avenue Decatur, Georgia 30030",
+        "description": ""
+    },
+    {
+        "name": "Doraville",
+        "coords": "33.902079, -84.280389",
+        "address": "6000 New Peachtree Road Doraville, GA 30340",
+        "description": ""
+    },
+    {
+        "name": "East Point",
+        "coords": "33.677814, -84.440344",
+        "address": "2848 East Main Street East Point, GA 30344",
+        "description": ""
+    },
+    {
+        "name": "Oakland City",
+        "coords": "33.716848, -84.4252",
+        "address": "1400 Lee Street SW Atlanta, Georgia 30310",
+        "description": ""
+    },
+    {
+        "name": "Georgia State",
+        "coords": "33.750539, -84.386464",
+        "address": "170 Piedmont Avenue SE Atlanta, Georgia 30303",
+        "description": ""
+    },
+    {
+        "name": "Decatur",
+        "coords": "33.774717, -84.295588",
+        "address": "400 Church Street Decatur, GA 30030",
+        "description": ""
+    },
+    {
+        "name": "Chamblee",
+        "coords": "33.886191, -84.306957",
+        "address": "5200 New Peachtree Road Chamblee, GA 30341",
+        "description": ""
+    },
+    {
+        "name": "Lenox",
+        "coords": "33.847144, -84.35631",
+        "address": "955 East Paces Ferry Road NE Atlanta, Georgia 30326",
+        "description": ""
+    },
+    {
+        "name": "Dunwoody",
+        "coords": "33.9212, -84.3444",
+        "address": "1111 Hammond Drive Dunwoody, GA 30328",
+        "description": ""
+    },
+    {
+        "name": "Inman Park/Reynoldstown",
+        "coords": "33.757497, -84.352797",
+        "address": "1055 DeKalb Avenue NE Atlanta, GA 30307",
+        "description": ""
+    },
+    {
+        "name": "Civic Center",
+        "coords": "33.766305, -84.387209",
+        "address": "435 West Peachtree Street NW Atlanta, GA 30308",
+        "description": ""
+    },
+    {
+        "name": "Brookhaven/Oglethorpe",
+        "coords": "33.860705, -84.340003",
+        "address": "4047 Peachtree Road NE Brookhaven, Georgia 30319",
+        "description": ""
+    },
+    {
+        "name": "Sandy Springs",
+        "coords": "33.933035, -84.352019",
+        "address": "1101 Mount Vernon Highway Sandy Springs, Georgia 30338",
+        "description": ""
+    },
+    {
+        "name": "West Lake",
+        "coords": "33.75314, -84.44658",
+        "address": "80 Anderson Avenue SW Atlanta, Georgia 30314",
+        "description": ""
+    },
+    {
+        "name": "Buckhead",
+        "coords": "33.84841, -84.367018",
+        "address": "3360 Peachtree Road NE Atlanta, Georgia 30326",
+        "description": ""
+    },
+    {
+        "name": "Dome/GWCC/Philips/CNN",
+        "coords": "33.756293, -84.397759",
+        "address": "100 Centennial Olympic Park Drive NW Atlanta, GA 30303",
+        "description": ""
+    },
+    {
+        "name": "Ashby",
+        "coords": "33.756346, -84.417556",
+        "address": "65 Joseph E. Lowery Boulevard NW Atlanta, GA 30314",
+        "description": ""
+    },
+    {
+        "name": "Lakewood/Ft. McPherson",
+        "coords": "33.700457, -84.428859",
+        "address": "2020 Lee Street SW Atlanta, GA 30310",
+        "description": ""
+    },
+    {
+        "name": "Bankhead",
+        "coords": "33.77189, -84.42884",
+        "address": "1335 Donald Lee Hollowell Parkway NW Atlanta, GA 30311",
+        "description": ""
+    },
+    {
+        "name": "King Memorial",
+        "coords": "33.749959, -84.37544",
+        "address": "377 Decatur Street NE Atlanta, Georgua 30312",
+        "description": ""
+    },
+    {
+        "name": "Garnett",
+        "coords": "33.747845, -84.396415",
+        "address": "225 Peachtree Street SW Atlanta, GA 30303",
+        "description": ""
+    },
+    {
+        "name": "Medical Center",
+        "coords": "33.910689, -84.352684",
+        "address": "5711 Peachtree-Dunwoody Road Sandy Springs, Georgia 30342",
+        "description": ""
+    },
+    {
+        "name": "Vine City",
+        "coords": "33.75687, -84.40391",
+        "address": "502 Rhodes Street NW Atlanta, GA 30314",
+        "description": ""
+    },
+    {
+        "name": "Edgewood/Candler Park",
+        "coords": "33.762001, -84.339579",
+        "address": "1475 DeKalb Avenue NE Atlanta, GA 30307",
+        "description": ""
+    },
+    {
+        "name": "East Lake",
+        "coords": "33.765166, -84.312665",
+        "address": "2260 College Avenue Atlanta, GA 30307",
+        "description": ""
+    }
+]
