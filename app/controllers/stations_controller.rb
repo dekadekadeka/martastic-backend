@@ -11,7 +11,7 @@ class StationsController < ApplicationController
       if @station.update(station_params)
         render json: @station, status: :accepted
       else
-        render json: {error: 'failed to update station'}, status: :not_acceptable
+        render json: {error: 'failed to add like'}, status: :not_acceptable
       end
     end
 

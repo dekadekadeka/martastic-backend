@@ -11,7 +11,7 @@ class FriendshipsController < ApplicationController
       if(@friendship.save)
           render json: @friendship
       else
-          render json: { error: 'failed to add friendship' }, status: :unprocessible_entity
+          render json: { error: 'failed to add friend' }, status: :unprocessible_entity
       end
     end
 

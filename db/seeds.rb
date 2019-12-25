@@ -10,56 +10,22 @@ require 'json'
 pics_file = File.read("./pics.json")
 pics_hash = JSON.parse(pics_file) 
 
+stations_file = File.read("./stations.json")
+stations_hash = JSON.parse(stations_file) 
+
 User.destroy_all
 Station.destroy_all
 Friendship.destroy_all
 Pic.destroy_all
 Comment.destroy_all
 
-stations = [
-    "Five Points",#
-    "Airport",#
-    "College Park",#
-    "Lindbergh Center",#
-    "Peachtree Center",#
-    "H. E. Holmes",#
-    "Kensington",#
-    "West End",#
-    "Arts Center",#
-    "North Springs",#
-    "North Avenue",#
-    "Indian Creek",#
-    "Midtown",#
-    "Avondale",#
-    "Doraville",#
-    "East Point",#
-    "Oakland City",#
-    "Georgia State",#
-    "Decatur",#
-    "Chamblee",#
-    "Lenox",#
-    "Dunwoody",#
-    "Inman Park/Reynoldstown",#
-    "Civic Center",#
-    "Brookhaven/Oglethorpe University",#
-    "Sandy Springs",#
-    "West Lake",#
-    "Buckhead",#
-    "Dome/GWCC/Philips/CNN",#
-    "Ashby",#
-    "Lakewood/Ft. McPherson",#
-    "Bankhead",#
-    "King Memorial",#
-    "Garnett",#
-    "Medical Center",#
-    "Vine City",#
-    "Edgewood/Candler Park",#
-    "East Lake"#
-]
-stations.each do |station|
+stations_hash.each do |sh|
     Station.create(
-        name: station, 
-        slug: station.gsub(/[\s\/.]/, "-").downcase,
+        name: sh["name"], 
+        slug: sh["name"].gsub(/[\s\/.]/, "-").downcase,
+        coords: sh["coords"],
+        address: sh["address"],
+        description: sh["description"],
         likes: rand(500))
 end
 

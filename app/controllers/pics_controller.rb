@@ -16,7 +16,7 @@ class PicsController < ApplicationController
       if(@pic.save)
           render json: @pic
       else
-          render json: { error: 'failed to add pic' }, status: :unprocessible_entity
+          render json: { error: 'failed to add pic - did you select a station?' }, status: :unprocessible_entity
       end
     end
 
