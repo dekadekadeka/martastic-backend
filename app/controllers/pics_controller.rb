@@ -37,7 +37,7 @@ class PicsController < ApplicationController
     private
 
     def pic_params
-      params.require(:pic).permit(:user_id, :station_id, :pic_url, :rating)
+      params.require(:pic).permit(:user_id, :station_id, :pic_url, :likes)
     end
 
 end

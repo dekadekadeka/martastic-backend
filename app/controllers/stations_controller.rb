@@ -23,7 +23,7 @@ class StationsController < ApplicationController
     private
 
     def station_params
-      params.require(:station).permit(:rating)
+      params.require(:station).permit(:likes)
     end
 
 end
