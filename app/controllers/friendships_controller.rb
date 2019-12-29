@@ -7,7 +7,7 @@ class FriendshipsController < ApplicationController
     end
 
     def create
-      @friendship = Friendship.new(friendship_params)
+      @friendship = Friendship.create(friendship_params)
       if(@friendship.save)
           render json: @friendship
       else
@@ -23,6 +23,6 @@ class FriendshipsController < ApplicationController
     private
 
     def friendship_params
-      params.require(:friendship).require(:user_id, :friend_id)
+      params.require(:friendship).permit(:user_id, :friend_id)
     end
 end
