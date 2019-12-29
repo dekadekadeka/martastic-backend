@@ -12,7 +12,7 @@ class PicsController < ApplicationController
     end
 
     def create
-      @pic = Pic.new(pic_params)
+      @pic = Pic.create(pic_params)
       if(@pic.save)
           render json: @pic
       else
