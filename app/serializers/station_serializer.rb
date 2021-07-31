@@ -1,8 +1,7 @@
 class StationSerializer < ActiveModel::Serializer
-    has_many :pics
-    has_many :users, through: :pics
+  attributes :id, :name, :first_pic_url
 
-    include Commentable
-  
-    attributes :id, :name, :slug, :likes, :coords, :address, :description
+  def first_pic_url
+    object.pics.first.pic_url
   end
+end
