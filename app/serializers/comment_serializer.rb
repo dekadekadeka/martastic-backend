@@ -1,5 +1,7 @@
 class CommentSerializer < ActiveModel::Serializer
-  belongs_to :user, serializer: AssociatedUserSerializer
-
   attributes :id, :content, :user, :commentable_type
+
+  def user
+    AssociatedUserSerializer.new(object.user, root: false)
+  end
 end
