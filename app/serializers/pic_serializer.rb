@@ -1,8 +1,7 @@
 class PicSerializer < ActiveModel::Serializer
-    belongs_to :user
-    belongs_to :station
+  attributes :id, :pic_url, :station_name
 
-    include Commentable
-  
-    attributes :id, :user_id, :station_id, :pic_url, :likes
+  def station_name
+    object.station.name
   end
+end

@@ -8,10 +8,10 @@
 require 'json'
 
 pics_file = File.read("./pics.json")
-pics_hash = JSON.parse(pics_file) 
+pics_hash = JSON.parse(pics_file)
 
 stations_file = File.read("./stations.json")
-stations_hash = JSON.parse(stations_file) 
+stations_hash = JSON.parse(stations_file)
 
 User.destroy_all
 Station.destroy_all
@@ -21,8 +21,7 @@ Comment.destroy_all
 
 stations_hash.each do |sh|
     Station.create(
-        name: sh["name"], 
-        slug: sh["name"].gsub(/[\s\/.]/, "-").downcase,
+        name: sh["name"],
         coords: sh["coords"],
         address: sh["address"],
         description: sh["description"],
