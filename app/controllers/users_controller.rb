@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-  skip_before_action :authorized, only: [:index, :friends, :show, :create]
+  skip_before_action :authorized, only: [:index, :show, :create]
 
   def index
     @users = User.all
@@ -13,6 +13,12 @@ class UsersController < ApplicationController
   def add_friend
     friend = User.find(params[:friend_id])
     current_user.friends << friend
+    render json: { user: UserSerializer.new(current_user) }
+  end
+
+  def delete_friend
+    friend = User.find(params[:friend_id])
+    current_user.friends.delete(friend)
     render json: { user: UserSerializer.new(current_user) }
   end
 
