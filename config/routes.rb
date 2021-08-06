@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   post '/login', to: 'auth#create'
   get '/profile', to: 'users#profile'
   get '/init-state', to: 'auth#init_state'
+  post '/add-friend', to: 'users#add_friend'
   resources :stations, only: [:index, :show, :update]
   resources :pics, only: [:index, :show, :update, :create, :destroy]
   resources :friendships, only: [:index, :create, :destroy]
